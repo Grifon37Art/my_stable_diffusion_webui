@@ -1,4 +1,7 @@
 ﻿name,prompt,negative_prompt
-Quality,"masterpiece,best quality,amazing quality
-","bad quality,worst quality,worst detail,sketch,censor"
 Male,male focus,"(female, woman, vagina, clitoris, sissy, boobs, girl, 1girl)"
+LAZY,"human, lazypos, lazympos","lazyneg, lazyhand, lazyloli, lazyreal, lazyNSFW"
+Style,"male focus, <lora:raccoon21_2_IL:1> , <lora:detailed-skin-style :0.5>",
+Random,"1man, __**/hair_style__, __**/hair_color__, __**/eye_color__, ",
+Random NSFW,"1man, __**/hair_style__, __**/hair_color__, __**/eye_color__,  naked",
+LAZY NSFW,"human, lazypos, lazyNSFW, lazympos","lazyneg, lazyhand, lazyloli, lazyreal "
